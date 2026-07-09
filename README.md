@@ -276,11 +276,11 @@ const mReza = {
 
 <br/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MRezaGhaderi1379&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub trophies" />
-</div>
+</div> -->
 
 <br/>
 
