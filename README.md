@@ -76,9 +76,9 @@ const mReza = {
 };
 ```
 
-<div align="center">
+<!-- <div align="center">
   <img width="430" src="./assets/aurora-frontend-ai-animated.gif" alt="M.Reza frontend AI animated illustration" />
-</div>
+</div> -->
 
 <br/>
 
