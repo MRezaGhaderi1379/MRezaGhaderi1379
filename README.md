@@ -1,145 +1,185 @@
 <!--
   GitHub Profile README for MRezaGhaderi1379
   Repository name must be exactly: MRezaGhaderi1379
+  Theme: Aurora Night UI — frontend + AI focused profile
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF4D9D&height=260&section=header&text=M.Reza&fontSize=82&fontAlignY=35&fontColor=FFFFFF&animation=twinkling&desc=Frontend+Developer+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+AI-Powered+UI&descAlignY=58&descSize=18" alt="M.Reza header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:0891B2,100:22C55E&height=270&section=header&text=M.Reza&fontSize=86&fontAlignY=35&fontColor=F8FAFC&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20React%20%2B%20TypeScript%20%E2%80%A2%20AI-Powered%20Interfaces&descAlignY=58&descSize=18" alt="M.Reza aurora header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/MRezaGhaderi1379">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&width=950&height=70&lines=Hey+there+%F0%9F%91%8B+I%27m+M.Reza;Frontend+Developer+%7C+React+%2B+TypeScript;I+build+clean%2C+fast%2C+and+beautiful+user+interfaces;AI-powered+workflows+%2B+modern+frontend+architecture;Currently+building+UpQuests+%F0%9F%9A%80" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=650&color=22D3EE&center=true&vCenter=true&width=1000&height=72&lines=Hey+there+%F0%9F%91%8B+I%27m+M.Reza;Frontend+Developer+focused+on+React+%2B+TypeScript;I+craft+clean%2C+fast%2C+and+beautiful+web+experiences;Building+AI-powered+interfaces+with+product-level+thinking;Currently+building+UpQuests+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRezaGhaderi1379&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/MRezaGhaderi1379?label=FOLLOWERS&style=for-the-badge&color=ff4d9d&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/badge/FOCUS-FRONTEND%20%2B%20AI-a855f7?style=for-the-badge&labelColor=0d1117" alt="focus" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20DAILY-00ff9d?style=for-the-badge&labelColor=0d1117" alt="status" />
-  <img src="https://img.shields.io/badge/REMOTE-READY-00d9ff?style=for-the-badge&labelColor=0d1117" alt="remote ready" />
+  <img src="https://komarev.com/ghpvc/?username=MRezaGhaderi1379&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MRezaGhaderi1379?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=020617" alt="followers" />
+  <img src="https://img.shields.io/badge/FOCUS-FRONTEND%20%2B%20AI-22c55e?style=for-the-badge&labelColor=020617" alt="focus" />
+  <img src="https://img.shields.io/badge/UI%20STYLE-AURORA%20NIGHT-38bdf8?style=for-the-badge&labelColor=020617" alt="ui style" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20DAILY-f59e0b?style=for-the-badge&labelColor=020617" alt="status" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated divider" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="38" alt="spark" />
-  About Me
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="38" alt="spark" />
-</h2>
+<br/>
 
-<img align="right" alt="coding animation" width="390" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+<h2>🧑‍💻 About Me</h2>
 
 ```typescript
-type FrontendDeveloper = {
+type FrontendProfile = {
   name: string;
   alias: string;
   role: string;
-  focus: string[];
-  stack: {
-    core: string[];
-    ui: string[];
-    stateAndData: string[];
-    aiWorkflow: string[];
-    tools: string[];
-  };
-  currentProject: string;
+  identity: string[];
+  favoriteStack: string[];
+  aiWorkflow: string[];
+  currentBuild: string;
   mindset: string;
 };
 
-const mReza: FrontendDeveloper = {
+const mReza: FrontendProfile = {
   name: "Mohammadreza Ghaderi",
   alias: "M.Reza",
   role: "Frontend Developer",
-  focus: [
-    "Modern React applications",
-    "Type-safe frontend architecture",
-    "Beautiful, responsive UI systems",
-    "AI-powered product experiences"
+  identity: [
+    "React + TypeScript focused",
+    "UI/UX detail-oriented",
+    "Clean component architecture",
+    "AI-powered product thinking"
   ],
-  stack: {
-    core: ["JavaScript", "TypeScript", "React", "Next.js", "Vite"],
-    ui: ["Tailwind CSS", "CSS Modules", "Sass", "Figma", "Design Systems"],
-    stateAndData: ["Redux Toolkit", "TanStack Query", "REST APIs", "Form Handling"],
-    aiWorkflow: ["Prompt Engineering", "AI-assisted Coding", "OpenAI APIs", "LLM UX"],
-    tools: ["Git", "GitHub", "VS Code", "npm", "pnpm", "Vercel"]
-  },
-  currentProject: "UpQuests — a gamified productivity app",
-  mindset: "Build clean. Learn deeply. Improve every day. 🚀"
+  favoriteStack: [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "Vite",
+    "Tailwind CSS",
+    "Redux Toolkit",
+    "TanStack Query"
+  ],
+  aiWorkflow: [
+    "Prompt engineering",
+    "AI-assisted coding",
+    "LLM chat interfaces",
+    "Smart frontend UX patterns"
+  ],
+  currentBuild: "UpQuests — gamified productivity app",
+  mindset: "Build beautifully. Learn deeply. Improve daily. 🚀"
 };
 ```
 
-<br clear="right"/>
+  </td>
+  <td width="42%" valign="middle" align="center">
+    <img width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Clean%20UI-22D3EE?style=for-the-badge&labelColor=020617" alt="clean ui" />
+    <img src="https://img.shields.io/badge/Fast%20UX-A78BFA?style=for-the-badge&labelColor=020617" alt="fast ux" />
+    <img src="https://img.shields.io/badge/AI%20Ready-22C55E?style=for-the-badge&labelColor=020617" alt="ai ready" />
+  </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:22C55E&height=2&section=header" width="100%" alt="gradient line" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="38" alt="tech" />
-  Frontend Tech Arsenal
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="38" alt="tech" />
-</h2>
+<h2 align="center">⚡ Frontend Tech Universe ⚡</h2>
 
 <div align="center">
 
-### ⚡ Core Web
+### 🌐 Core Web Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&perline=7" alt="core frontend skills" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&perline=7" alt="core web skills" />
-
-### 🎨 UI, Styling & Design
-
-<img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,figma&perline=4" alt="ui styling design skills" />
+### 🎨 UI, Styling & Design Systems
+<img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,figma&perline=4" alt="ui styling skills" />
 <br/><br/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn ui" />
-<img src="https://img.shields.io/badge/Responsive%20Design-00D9FF?style=for-the-badge&labelColor=0D1117" alt="responsive design" />
-<img src="https://img.shields.io/badge/Design%20Systems-7C3AED?style=for-the-badge&labelColor=0D1117" alt="design systems" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-020617?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn ui" />
+<img src="https://img.shields.io/badge/Responsive%20Design-22D3EE?style=for-the-badge&labelColor=020617" alt="responsive design" />
+<img src="https://img.shields.io/badge/Micro%20Interactions-A78BFA?style=for-the-badge&labelColor=020617" alt="micro interactions" />
+<img src="https://img.shields.io/badge/Dark%20Mode%20UI-22C55E?style=for-the-badge&labelColor=020617" alt="dark mode ui" />
 
 ### 🧠 State, Data & App Architecture
-
 <img src="https://skillicons.dev/icons?i=redux,graphql&perline=2" alt="state and data skills" />
 <br/><br/>
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack query" />
 <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="react hook form" />
-<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logoColor=white" alt="zod" />
-<img src="https://img.shields.io/badge/Clean%20Components-00FF9D?style=for-the-badge&labelColor=0D1117" alt="clean components" />
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&labelColor=020617" alt="zod" />
+<img src="https://img.shields.io/badge/Reusable%20Components-22C55E?style=for-the-badge&labelColor=020617" alt="reusable components" />
 
-### 🤖 AI Skills for Frontend Developers
-
+### 🤖 AI Skills for Frontend Products
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF4D9D?style=for-the-badge&labelColor=0D1117" alt="prompt engineering" />
-<img src="https://img.shields.io/badge/AI%20UI%20Patterns-00D9FF?style=for-the-badge&labelColor=0D1117" alt="ai ui patterns" />
-<img src="https://img.shields.io/badge/LLM%20Chat%20Interfaces-A855F7?style=for-the-badge&labelColor=0D1117" alt="llm chat interfaces" />
-<img src="https://img.shields.io/badge/Streaming%20UX-00FF9D?style=for-the-badge&labelColor=0D1117" alt="streaming ux" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-A78BFA?style=for-the-badge&labelColor=020617" alt="prompt engineering" />
+<img src="https://img.shields.io/badge/AI%20Chat%20UI-22D3EE?style=for-the-badge&labelColor=020617" alt="ai chat ui" />
+<img src="https://img.shields.io/badge/Streaming%20UX-22C55E?style=for-the-badge&labelColor=020617" alt="streaming ux" />
+<img src="https://img.shields.io/badge/AI%20Design%20Workflow-F59E0B?style=for-the-badge&labelColor=020617" alt="ai design workflow" />
 
-### 🧪 Quality, Testing & Workflow
-
-<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,vscode,npm,pnpm,vercel,netlify&perline=10" alt="testing and workflow skills" />
+### 🧪 Quality, Tools & Deployment
+<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,vscode,npm,pnpm,vercel,netlify&perline=10" alt="quality tools deployment" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated divider" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122003-9898af3c-9ec1-4d29-895a-94b7b9be7c5b.png" width="38" alt="projects" />
-  Featured Frontend Focus
-  <img src="https://user-images.githubusercontent.com/74038190/216122003-9898af3c-9ec1-4d29-895a-94b7b9be7c5b.png" width="38" alt="projects" />
-</h2>
+<h2 align="center">🎨 UI / UX Signature</h2>
 
 <p align="center">
-  <em>A clean snapshot of the kind of products, interfaces, and developer experience I enjoy building.</em>
+  <em>I like interfaces that feel calm, sharp, fast, and easy to understand.</em>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/design.png" width="58" alt="design" />
+      <br/>
+      <strong>Visual Polish</strong>
+      <br/>
+      <sub>Clean spacing, balanced colors, premium look</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/lightning-bolt.png" width="58" alt="performance" />
+      <br/>
+      <strong>Fast Feeling</strong>
+      <br/>
+      <sub>Smooth states, clear feedback, quick flow</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/source-code.png" width="58" alt="code" />
+      <br/>
+      <strong>Clean Code</strong>
+      <br/>
+      <sub>Readable components and maintainable structure</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="58" alt="ai" />
+      <br/>
+      <strong>AI Product UX</strong>
+      <br/>
+      <sub>Useful AI features with human-friendly UI</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:0F766E,100:312E81&height=86&section=header&text=Featured%20Build%20Directions&fontSize=28&fontColor=F8FAFC&animation=twinkling&fontAlignY=55" alt="featured build directions" />
+</div>
 
 <table>
   <tr>
@@ -148,71 +188,59 @@ const mReza: FrontendDeveloper = {
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gamification-FF4D9D?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gamification-22C55E?style=flat-square" />
       </p>
-      <p>
-        A gamified productivity experience where goals, habits, and daily tasks become quests with XP, levels, streaks, and achievements.
-      </p>
-      <sub>✨ Focus: component structure, state management, responsive UI, delightful UX</sub>
+      <p>A gamified productivity app where goals, habits, and daily tasks become quests with XP, levels, streaks, and achievements.</p>
+      <sub>✨ Focus: delightful UX, clean state, responsive components</sub>
     </td>
     <td width="50%" valign="top">
       <h3>📊 CMS Dashboard UI</h3>
       <p>
-        <img src="https://img.shields.io/badge/Admin%20Panel-00D9FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tables%20%26%20Forms-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dark%20Mode-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/Admin%20Panel-22D3EE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Tables-A78BFA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forms-F59E0B?style=flat-square" />
       </p>
-      <p>
-        A modern content management interface with clean layouts, reusable forms, filters, tables, modals, and role-friendly user flows.
-      </p>
-      <sub>✨ Focus: reusable UI patterns, dashboard UX, validation, data-heavy screens</sub>
+      <p>A modern content management interface with reusable forms, filters, tables, modals, empty states, and polished dashboard flows.</p>
+      <sub>✨ Focus: dashboard UX, validation, data-heavy screens</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 Frontend Components Lab</h3>
+      <h3>🧩 Component System</h3>
       <p>
-        <img src="https://img.shields.io/badge/Design%20System-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Reusable%20Components-00FF9D?style=flat-square" />
-        <img src="https://img.shields.io/badge/Accessibility-FFB000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Design%20System-312E81?style=flat-square" />
+        <img src="https://img.shields.io/badge/Reusable%20UI-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Accessible%20Patterns-38BDF8?style=flat-square" />
       </p>
-      <p>
-        A growing collection of polished UI components: buttons, cards, inputs, navigation, loaders, empty states, and layout primitives.
-      </p>
-      <sub>✨ Focus: consistency, accessibility, clean props, maintainable styling</sub>
+      <p>A growing frontend lab for cards, buttons, inputs, loaders, navigation, empty states, and layout primitives.</p>
+      <sub>✨ Focus: consistency, clean props, scalable UI foundations</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI Frontend Playground</h3>
+      <h3>🤖 AI Interface Playground</h3>
       <p>
-        <img src="https://img.shields.io/badge/AI%20UX-00D9FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chat%20UI-FF4D9D?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streaming%20Responses-00FF9D?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20UX-22D3EE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Chat%20UI-A78BFA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streaming%20Responses-22C55E?style=flat-square" />
       </p>
-      <p>
-        Experiments with AI-powered interfaces, prompt-driven workflows, chat experiences, and useful AI features inside web apps.
-      </p>
-      <sub>✨ Focus: AI product UX, loading states, message UI, frontend integration</sub>
+      <p>Experiments with AI-powered flows, prompt-driven features, assistant-style interfaces, and useful automation inside web apps.</p>
+      <sub>✨ Focus: message UI, loading states, AI product experience</sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
   <a href="https://github.com/MRezaGhaderi1379?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="view repositories" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-020617?style=for-the-badge&logo=github&logoColor=white" alt="explore repositories" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated divider" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-8d58-c9b2b4ca1f3f.gif" width="38" alt="learning" />
-  Currently Leveling Up
-  <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-8d58-c9b2b4ca1f3f.gif" width="38" alt="learning" />
-</h2>
+<h2 align="center">🚀 Currently Leveling Up</h2>
 
 <div align="center">
 
@@ -229,123 +257,80 @@ const mReza: FrontendDeveloper = {
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" alt="gradient line" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122004-7edc4d29-a3c8-46b0-b9bb-bc4b5e72c1fc.png" width="38" alt="analytics" />
-  GitHub Analytics
-  <img src="https://user-images.githubusercontent.com/74038190/216122004-7edc4d29-a3c8-46b0-b9bb-bc4b5e72c1fc.png" width="38" alt="analytics" />
-</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MRezaGhaderi1379&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4D9D&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRezaGhaderi1379&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRezaGhaderi1379&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&include_all_commits=true&count_private=true&border_radius=18" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRezaGhaderi1379&layout=compact&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&border_radius=18&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRezaGhaderi1379&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF4D9D&fire=FF4D9D&currStreakLabel=00D9FF&sideNums=FFFFFF&dates=C9D1D9" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRezaGhaderi1379&theme=dark&hide_border=true&background=020617&stroke=22D3EE&ring=A78BFA&fire=F59E0B&currStreakLabel=22D3EE&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRezaGhaderi1379&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF4D9D&point=FFFFFF&area=true&area_color=A855F7" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRezaGhaderi1379&bg_color=020617&color=E5E7EB&line=22D3EE&point=A78BFA&area=true&area_color=22C55E&hide_border=true&radius=16" alt="GitHub activity graph" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MRezaGhaderi1379&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated divider" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-f827d4a5-fd1e-4527-92bd-6eb59c84a580.png" width="38" alt="trophies" />
-  GitHub Trophies
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-f827d4a5-fd1e-4527-92bd-6eb59c84a580.png" width="38" alt="trophies" />
-</h2>
+<h2 align="center">🧠 Frontend Philosophy</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRezaGhaderi1379&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+
+> **Great frontend is not only about pixels.**  
+> It is about clarity, speed, emotion, accessibility, and maintainable code.
+
 </div>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>🎨 Beautiful UI</strong><br/><sub>Clear, balanced, polished</sub></td>
+    <td align="center"><strong>⚡ Smooth UX</strong><br/><sub>Fast, responsive, predictable</sub></td>
+    <td align="center"><strong>🧠 Type Safety</strong><br/><sub>Fewer bugs, more confidence</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🧩 Components</strong><br/><sub>Reusable, readable, scalable</sub></td>
+    <td align="center"><strong>🤖 AI Workflow</strong><br/><sub>Learn faster, build smarter</sub></td>
+    <td align="center"><strong>🚀 Shipping Mindset</strong><br/><sub>Small improvements every day</sub></td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:164E63,100:312E81&height=90&section=header&text=Let%27s%20Build%20Something%20Beautiful&fontSize=28&fontColor=F8FAFC&animation=fadeIn&fontAlignY=55" alt="connect banner" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656174-94d8b40c-9ce7-4863-988c-4d2ff4a52f56.gif" width="38" alt="philosophy" />
-  Frontend Philosophy
-  <img src="https://user-images.githubusercontent.com/74038190/216656174-94d8b40c-9ce7-4863-988c-4d2ff4a52f56.gif" width="38" alt="philosophy" />
-</h2>
-
-<div align="center">
-
-> **Great frontend is not only about how it looks.**  
-> It is about how fast it feels, how clearly it guides the user, and how easy it is to maintain.
-
-</div>
-
-<div align="center">
-
-| I care about | Why it matters |
-|:---|:---|
-| 🎨 Clean UI | Users trust products that feel clear and polished |
-| ⚡ Performance | Fast interfaces feel professional |
-| 🧠 Type Safety | TypeScript catches mistakes before users do |
-| 🧩 Reusable Components | Good components make big apps easier to grow |
-| 🤖 AI-assisted Workflow | AI helps me learn faster, build smarter, and improve quality |
-| 🛠️ Maintainability | Future me should understand today's code |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
-</div>
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655823-c5d06d81-1be4-4efc-940d-9ce4a2b67f73.gif" width="38" alt="facts" />
-  A Few Things About Me
-  <img src="https://user-images.githubusercontent.com/74038190/216655823-c5d06d81-1be4-4efc-940d-9ce4a2b67f73.gif" width="38" alt="facts" />
-</h2>
-
-<div align="center">
-
-✨ I enjoy turning ideas into clean, usable interfaces  
-🧠 I like learning step by step and understanding the reason behind every tool  
-🎮 I am building **UpQuests**, a gamified productivity app  
-🤖 I use AI as a creative and technical assistant for better frontend workflows  
-⚡ I believe small daily improvements create serious long-term progress  
-🎯 My goal is to become a strong frontend developer with product-level thinking  
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon divider" />
-</div>
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f058ccf-3fa2-4923-abb7-28e1d9ffdf75.png" width="38" alt="connect" />
-  Let's Connect
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f058ccf-3fa2-4923-abb7-28e1d9ffdf75.png" width="38" alt="connect" />
-</h2>
+<h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
   <a href="https://github.com/MRezaGhaderi1379" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=0d1117&style=for-the-badge" height="40" alt="GitHub logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=020617&logoColor=white&labelColor=020617&style=for-the-badge" height="40" alt="GitHub logo" />
   </a>
   <!-- Add your public LinkedIn link here when you want:
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0d1117&style=for-the-badge" height="40" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=020617&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
   -->
   <!-- Add your public Telegram link here when you want:
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=0d1117&style=for-the-badge" height="40" alt="Telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=020617&style=for-the-badge" height="40" alt="Telegram logo" />
   </a>
   -->
 </div>
@@ -353,11 +338,11 @@ const mReza: FrontendDeveloper = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D9D,50:7C3AED,100:00D9FF&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,35:0891B2,70:312E81,100:020617&height=155&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=30&fontColor=F8FAFC&animation=twinkling&fontAlignY=65" alt="footer wave" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" alt="neon divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" alt="animated divider" />
 </div>
 
 <div align="center">
@@ -366,8 +351,7 @@ const mReza: FrontendDeveloper = {
   </sub>
   <br/><br/>
   <sub>
-    💙 Made with focus by
+    Crafted with focus by
     <a href="https://github.com/MRezaGhaderi1379"><strong>M.Reza</strong></a>
-    💙
   </sub>
 </div>
