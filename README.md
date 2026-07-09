@@ -82,11 +82,11 @@ const mReza = {
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/Clean%20UI-22D3EE?style=for-the-badge&labelColor=020617" alt="clean ui" />
   <img src="https://img.shields.io/badge/Fast%20UX-A78BFA?style=for-the-badge&labelColor=020617" alt="fast ux" />
   <img src="https://img.shields.io/badge/AI%20Ready-22C55E?style=for-the-badge&labelColor=020617" alt="ai ready" />
-</div>
+</div> -->
 
 <br/>
 
