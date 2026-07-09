@@ -29,37 +29,32 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated divider" />
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ✨ ABOUT ME — RESPONSIVE SAFE / NO HORIZONTAL SCROLL ✨                         -->
+<!-- GitHub README does not support real CSS media queries, so this section is       -->
+<!-- mobile-first: no wide table, no forced two-column layout, no page-level scroll. -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<h2>🧑‍💻 About Me</h2>
+<p align="center">
+  <em>Frontend developer focused on clean interfaces, smooth user experience, and AI-powered product thinking.</em>
+</p>
 
 ```typescript
-type FrontendProfile = {
-  name: string;
-  alias: string;
-  role: string;
-  identity: string[];
-  favoriteStack: string[];
-  aiWorkflow: string[];
-  currentBuild: string;
-  mindset: string;
-};
-
-const mReza: FrontendProfile = {
+const mReza = {
   name: "Mohammadreza Ghaderi",
   alias: "M.Reza",
   role: "Frontend Developer",
-  identity: [
-    "React + TypeScript focused",
-    "UI/UX detail-oriented",
-    "Clean component architecture",
-    "AI-powered product thinking"
+
+  focus: [
+    "React + TypeScript",
+    "Clean UI / fast UX",
+    "Component architecture",
+    "AI-ready product UX"
   ],
-  favoriteStack: [
+
+  stack: [
     "React",
     "TypeScript",
     "Next.js",
@@ -68,27 +63,30 @@ const mReza: FrontendProfile = {
     "Redux Toolkit",
     "TanStack Query"
   ],
+
   aiWorkflow: [
     "Prompt engineering",
     "AI-assisted coding",
     "LLM chat interfaces",
-    "Smart frontend UX patterns"
+    "Smart UX patterns"
   ],
-  currentBuild: "UpQuests — gamified productivity app",
-  mindset: "Build beautifully. Learn deeply. Improve daily. 🚀"
+
+  building: "UpQuests",
+  mindset: "Build beautifully. Learn deeply. 🚀"
 };
 ```
 
-  </td>
-  <td width="42%" valign="middle" align="center">
-    <img width="390" src="./assets/aurora-frontend-ai-animated.gif" alt="M.Reza frontend AI animated illustration" />
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Clean%20UI-22D3EE?style=for-the-badge&labelColor=020617" alt="clean ui" />
-    <img src="https://img.shields.io/badge/Fast%20UX-A78BFA?style=for-the-badge&labelColor=020617" alt="fast ux" />
-    <img src="https://img.shields.io/badge/AI%20Ready-22C55E?style=for-the-badge&labelColor=020617" alt="ai ready" />
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="430" src="./assets/aurora-frontend-ai-animated.gif" alt="M.Reza frontend AI animated illustration" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Clean%20UI-22D3EE?style=for-the-badge&labelColor=020617" alt="clean ui" />
+  <img src="https://img.shields.io/badge/Fast%20UX-A78BFA?style=for-the-badge&labelColor=020617" alt="fast ux" />
+  <img src="https://img.shields.io/badge/AI%20Ready-22C55E?style=for-the-badge&labelColor=020617" alt="ai ready" />
+</div>
 
 <br/>
 
