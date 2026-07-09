@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/pasha1383">
+  <a href="https://github.com/MRezaGhaderi1379">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+there+%F0%9F%91%8B+I'm+Parsa+Shadkam;%F0%9F%A4%96+AI+Software+Engineer+%7C+%E2%9A%99%EF%B8%8F+Backend+Architect;%F0%9F%9A%80+NestJS+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+Microservices;%E2%9C%A8+Building+scalable+systems+at+the+edge+of+AI;%F0%9F%8F%86+ICPC+Finalist+%7C+Clean+Architecture+Evangelist" alt="Typing SVG" />
   </a>
 </div>
@@ -21,10 +21,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/pasha1383">
+  <a href="https://github.com/MRezaGhaderi1379">
     <img src="https://komarev.com/ghpvc/?username=pasha1383&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" alt="profile views" />
   </a>
-  <img src="https://img.shields.io/github/followers/pasha1383?label=FOLLOWERS&style=for-the-badge&color=ff4d9d&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/followers/MRezaGhaderi1379?label=FOLLOWERS&style=for-the-badge&color=ff4d9d&labelColor=0d1117" alt="followers" />
   <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20BACKEND-a855f7?style=for-the-badge&labelColor=0d1117" alt="focus" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20REMOTE-00ff9d?style=for-the-badge&labelColor=0d1117" alt="open to work" />
   <img src="https://img.shields.io/badge/LOCATION-TEHRAN%20%F0%9F%87%AE%F0%9F%87%B7-00d9ff?style=for-the-badge&labelColor=0d1117" alt="location" />
@@ -46,9 +46,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasha1383/pasha1383/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasha1383/pasha1383/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation eating my contributions" src="https://raw.githubusercontent.com/pasha1383/pasha1383/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MRezaGhaderi1379/MRezaGhaderi1379/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MRezaGhaderi1379/MRezaGhaderi1379/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation eating my contributions" src="https://raw.githubusercontent.com/MRezaGhaderi1379/MRezaGhaderi1379/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -67,27 +67,25 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```typescript
-const parsa: AIEngineer = {
-  name: "Parsa Shadkam",
-  role: "Senior Backend → AI Software Engineer",
+const parsa: FrontendDeveloper = {
+  name: "Mohammadreza Ghaderi",
+  role: "Senior Frontend → AI Software Engineer",
   location: "Tehran, Iran 🇮🇷 (Open to Remote 🌍)",
   education: "B.Sc. Computer Engineering @ KNTU",
 
   specialties: [
-    "Scalable Backend Systems",
+    "Scalable Frontend Systems",
     "AI / ML Integration & Infra",
     "Microservices & Cloud-Native",
     "Clean Architecture (DDD, Hexagonal)"
   ],
 
   stack: {
-    languages: ["TypeScript", "Python", "C++"],
-    backend:   ["NestJS", "Django", "FastAPI"],
-    ai:        ["PyTorch", "TensorFlow", "LangChain"],
-    cloud:     ["Docker", "Kubernetes", "AWS"]
+    languages: ["TypeScript" , "JavaScript"],
+    frontend:   ["NextJS", "ReactJS"],
   },
 
-  currentFocus: "Bridging production-grade backends " +
+  currentFocus: "Bridging production-grade frontends " +
                 "with intelligent AI systems",
 
   funFact: "I treat every system design like an ICPC " +
