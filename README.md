@@ -2,6 +2,7 @@
   GitHub Profile README for MRezaGhaderi1379
   Repository name must be exactly: MRezaGhaderi1379
   Theme: Aurora Night UI — frontend + AI focused profile
+  Animated visual asset: ./assets/aurora-frontend-ai-animated.gif
 -->
 
 <div align="center">
@@ -80,7 +81,7 @@ const mReza: FrontendProfile = {
 
   </td>
   <td width="42%" valign="middle" align="center">
-    <img width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" />
+    <img width="390" src="./assets/aurora-frontend-ai-animated.gif" alt="M.Reza frontend AI animated illustration" />
     <br/><br/>
     <img src="https://img.shields.io/badge/Clean%20UI-22D3EE?style=for-the-badge&labelColor=020617" alt="clean ui" />
     <img src="https://img.shields.io/badge/Fast%20UX-A78BFA?style=for-the-badge&labelColor=020617" alt="fast ux" />
