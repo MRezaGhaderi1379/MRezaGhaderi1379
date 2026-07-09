@@ -259,12 +259,12 @@ const mReza = {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,50:22D3EE,100:A78BFA&height=2&section=header" width="100%" alt="gradient line" />
 </div>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<!-- <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRezaGhaderi1379&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&include_all_commits=true&count_private=true&border_radius=18" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRezaGhaderi1379&layout=compact&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&border_radius=18&langs_count=8" alt="Top languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRezaGhaderi1379&theme=dark&hide_border=true&background=020617&stroke=22D3EE&ring=A78BFA&fire=F59E0B&currStreakLabel=22D3EE&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
